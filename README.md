@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👋 About Me
-An avid coder with an interest in artificial intelligence and pattern recognition. Love talking about macroeconomics and predicting large scale social behaviours through models and data analytics. Will also talk your ear off about 
+An avid coder with an interest in artificial intelligence and pattern recognition. Love talking about macroeconomics and predicting large scale social behaviours through models and data analytics. Will also talk your ear off about literature :)
 
 ---
 
