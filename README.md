@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Chinmayee R
 
 🎓 BSc/MSc | 💻 Data Science | 📍 Coimbatore  
-📧 chinmayee.rrajesh@gmail.com | 🌐 [Portfolio]([https://codercat007.github.io](https://chinmayee-portfolio-page.netlify.app/))| 💼 [LinkedIn](https://www.linkedin.com/in/chinmayee-rajesh-b04a18298/)
+📧 chinmayee.rrajesh@gmail.com | 🌐 [Portfolio](https://chinmayee-portfolio-page.netlify.app/)| 💼 [LinkedIn](https://www.linkedin.com/in/chinmayee-rajesh-b04a18298/)
 
 ---
 
